@@ -60,8 +60,8 @@
 
 			// create associative array
 			$names = array(
-				"first_name" => 'Edwin',
-				"last_name" => 'Diaz'
+				"first_name" => 'pak',
+				"last_name" => 'cia'
 			);
 
 			// display associative array values
